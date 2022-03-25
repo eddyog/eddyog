@@ -1,4 +1,4 @@
-### Eddy Gonzalez personal repository 👋
+### Eddy Gonzalez personal repository
 
 - 🔭 I’m currently pursuing a Bachelor Degree in Software Engineering at Brigahm Young University Idaho
 - 🌱 I’m currently learning the following programming languages: Python, C++, Swift, JavaScript, Css, Html, Php
