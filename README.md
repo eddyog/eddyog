@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning the following programming languages: Python, C++, Swift, JavaScript, Css, Html, Php
 - 🖥️ I’m looking to find opportunities to get an intership and job oportunities
 - 📫 How to reach me: oswaldo4495@gmail.com
-- 💡 I created different organization to have have it more orgonized and is distribuited like this 
+- 💡 I created different organization to have it more orgonized and is distribuited in the following categories
 -    * Python
 -    * C++
 -    * Web Development
